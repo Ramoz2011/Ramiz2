@@ -1,2 +1,4 @@
-# Project exclude paths
-/out/
+out/
+.gitignore
+.idea
+FB20228B.iml
